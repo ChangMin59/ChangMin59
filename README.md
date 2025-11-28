@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C7EFF,100:00C2FF&height=180&section=header&text=AI%20Developer%20ChangMin&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+</p>
 <div align="left">
 
 # 👋 안녕하세요, AI 개발자 **이창민**입니다.
