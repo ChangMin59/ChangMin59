@@ -154,7 +154,7 @@ AI 기술을 **실제 제품으로 구현하는 데 필요한 전 과정을 직�
 
 **4. WELHOME-LH 주택청약 챗봇 (2인 프로젝트)**
 - **설명**: 사용자조건에 맞는 임대주택 추천
-- **기술 스택**: Upstage, LangChail, LangGraph, Agent, PEFT, Chroma, FastAPI, SQLite
+- **기술 스택**: Upstage, LangChain, LangGraph, Agent, PEFT, Chroma, FastAPI, SQLite
 - **주요 기능**
   - 사용자 조건 기반 맞춤형 LH 청약 공고 추천
   - 정책 용어 QnA 챗봇 (전문용어 → 일상어 설명)
