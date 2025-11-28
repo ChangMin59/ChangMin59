@@ -168,44 +168,9 @@ AI 기술을 **실제 제품으로 구현하는 데 필요한 전 과정을 직�
   - 모델 로딩·상태 관리 로직 재구성
 - **GitHub**: [ai-portfolio](https://github.com/ChangMin59/ai-portfolio)
 
-
-## 🎯 Goals
-
-### 🔹 단기 목표
-- Spring Boot · FastAPI를 활용한 **API 서버 및 백엔드 로직** 심화
-- **RAG/LLM 파이프라인**을 활용한 토이 프로젝트 다수 완성
-- 애니메이션이 자연스러운 **인터랙션 중심 웹 포트폴리오** 고도화
-
-### 🔹 중기 목표
-- AI + 웹을 결합한 **실사용 가능한 서비스** 1개 이상 배포
-- 팀 프로젝트 및 협업 경험 확장 (Git 기반 협업, 코드 리뷰 경험 쌓기)
-
-### 🔹 장기 목표
-- 데이터/AI와 웹 개발을 모두 이해하는 **풀스택 AI 개발자**로 성장
-- 스스로 서비스 기획 → 개발 → 배포까지 책임질 수 있는 역량 갖추기
-
 ---
 
-## 📊 GitHub Stats
+## 📫 연락처
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ChangMin59&show_icons=true&theme=transparent" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChangMin59&layout=compact&theme=transparent" alt="Top Langs" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ChangMin59&theme=transparent" alt="GitHub Streak" />
-</p>
-
-<!-- 👉 위 username= 부분을 본인 GitHub 아이디로 정확히 맞추세요 -->
-
----
-
-## 📫 Contact
-
-- 📧 Email: `이메일_주소_여기에@example.com`
+- 📧 Email: dy2ghsk@gmail.com
 - 🧑‍💻 GitHub: [@ChangMin59](https://github.com/ChangMin59)
-- 📝 블로그/노션: 원하시면 여기 추가
