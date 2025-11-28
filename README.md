@@ -29,30 +29,30 @@
 - 📝 Blog / Notion: 원하시면 여기에 링크 추가
 
 ---
-### 기술스택
+# 기술스택
 ---
 
-## 프로그래밍 언어
+### 프로그래밍 언어
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-## AI · 딥러닝
+### AI · 딥러닝
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
   <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
-## LLM 파인튜닝
+### LLM 파인튜닝
 <p>
   <img src="https://img.shields.io/badge/LoRA-4C4C4C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/QLoRA-4C4C4C?style=for-the-badge"/>
 </p>
 
-## RAG 기술
+### RAG 기술
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/GraphRAG-4C4C4C?style=for-the-badge"/>
@@ -60,39 +60,39 @@
   <img src="https://img.shields.io/badge/Prompt%20Engineering-1A1A1A?style=for-the-badge"/>
 </p>
 
-## 벡터 데이터베이스
+### 벡터 데이터베이스
 <p>
   <img src="https://img.shields.io/badge/FAISS-2C3E50?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/ChromaDB-00BC7F?style=for-the-badge"/>
 </p>
 
-## 프론트엔드
+### 프론트엔드
 <p>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-## 백엔드
+### 백엔드
 <p>
   <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
   <img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white"/>
   <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
 </p>
 
-## 데이터베이스
+### 데이터베이스
 <p>
   <img src="https://img.shields.io/badge/MySQL-00618A?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-## MLOps · 배포
+### MLOps · 배포
 <p>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
 </p>
 
-## 협업 도구
+### 협업 도구
 <p>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
   <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
