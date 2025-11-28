@@ -20,10 +20,9 @@ AI 기술을 실제 서비스로 연결하는 데 집중하고 있습니다.
 
 ## 📁 Portfolio & Links
 
-- 🖥️ 포트폴리오: [AI Portfolio](https://github.com/ChangMin59/ai-portfolio) <!-- 👉 실제 포트폴리오 URL/페이지로 변경 가능 -->
-- 🧑‍💻 GitHub: [@ChangMin59](https://github.com/ChangMin59) <!-- 👉 깃허브 아이디 확인 -->
-- 📧 Email: `이메일_주소_여기에@example.com` <!-- 👉 본인 이메일로 변경 -->
-- 📝 Blog / Notion: 원하시면 여기에 링크 추가
+- 🖥️ 포트폴리오: [AI Portfolio](https://github.com/ChangMin59/ai-portfolio)
+- 🧑‍💻 GitHub: [@ChangMin59](https://github.com/ChangMin59) 
+- 📧 Email: dy2ghk@naver.com
 
 ---
 # 기술스택
