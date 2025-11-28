@@ -30,53 +30,91 @@
 
 ---
 
-## 🛠 Skills
+## 🛠 기술 스택
 
 ### 🔎 데이터 수집 & API
-- **Selenium**, **BeautifulSoup**
-- **REST API 연동**, **JavaScript/iframe 기반 데이터 수집**
+<p>
+  <img src="https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white"/>
+  <img src="https://img.shields.io/badge/BeautifulSoup-181717?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/REST%20API-005571?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/iframe-555555?style=for-the-badge&logo=html5&logoColor=white"/>
+</p>
 
 ### 📊 데이터 분석 · 시각화
-- **Pandas**, **NumPy**
-- **Matplotlib**, **Seaborn**
+<p>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
+</p>
 
 ### 🤖 인공지능 · 딥러닝
-- **PyTorch**, **TensorFlow**
-- **Transformers**, **Transfer Learning**
-- **LoRA / QLoRA**
-- **OpenCV**
+<p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Transformers-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Transfer%20Learning-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LoRA%2FQLoRA-555555?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+</p>
 
 ### 💬 LLM & 챗봇 개발
-- **HuggingFace**, **LangChain**, **LlamaIndex**
-- **FAISS**, **ChromaDB**
-- **RAG**, **GraphRAG**, **Agent**
-- **Ollama**, **OpenAI API**
+<p>
+  <img src="https://img.shields.io/badge/HuggingFace-FFCC4D?style=for-the-badge&logo=huggingface&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/LangChain-00B96F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LlamaIndex-4A86E8?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/FAISS-005571?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/ChromaDB-16A34A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/RAG-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GraphRAG-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agent-333333?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
 
-### 🌐 웹 개발
+### 🌐 웹 개발 - Backend
+<p>
+  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+</p>
 
-**Backend**
-- **Spring Boot**, **FastAPI**, **JPA**
-- **MySQL**
-- **JWT 인증 기반 로그인/인증**
-
-**Frontend**
-- **HTML**, **CSS**, **JavaScript**
-- **Canvas**, **GSAP(애니메이션)**
-- **Kakao Map API**
-- **반응형 레이아웃**, **인터랙션 중심 UI/UX**
+### 🌐 웹 개발 - Frontend & UI/UX
+<p>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000"/>
+  <img src="https://img.shields.io/badge/Canvas-555555?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Kakao%20Map%20API-FFCD00?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/%EB%B0%98%EC%9D%91%ED%98%95%20%EB%94%94%EC%9E%90%EC%9D%B8-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/%EC%9D%B8%ED%84%B0%EB%9E%99%EC%85%98-000000?style=for-the-badge"/>
+</p>
 
 ### ☁️ 클라우드 & MLOps
-- **AWS (EC2 / S3 / RDS)**
-- **Naver Cloud**
-- **Docker**
-- **Airflow**
-- **Render**, **Railway**
+<p>
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge"/>
+</p>
 
 ### 🤝 협업 & 기타
-- **Git / GitHub**
-- **IntelliJ**, **VSCode**, **Cursor**
-- **Ubuntu / WSL**
-- **SSH 서버 관리**
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=for-the-badge&logo=intellijidea&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Cursor-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
+  <img src="https://img.shields.io/badge/WSL-0C722C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/SSH-333333?style=for-the-badge"/>
+</p>
 
 ---
 
