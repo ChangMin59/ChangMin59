@@ -108,7 +108,7 @@ AI 기술을 **실제 제품으로 구현하는 데 필요한 전 과정을 직�
 
 ## 📂 Projects
 
- **1.자기소개 웹페이지**
+ **1. AI Developer Web Page-자기소개 웹페이지 (1인 프로젝트)**
 - **설명**: 웹 개발 역량을 한눈에 보여주기 위한 포트폴리오 사이트
 - **기술 스택**
   - **Frontend:** HTML, CSS, JavaScript, Canvas, GSAP
@@ -120,32 +120,53 @@ AI 기술을 **실제 제품으로 구현하는 데 필요한 전 과정을 직�
   - **UX 인터랙션:** GSAP ScrollTrigger + Canvas 기반 애니메이션
 - **GitHub**: [ai-portfolio](https://github.com/ChangMin59/ai-portfolio)
 
----
-
-### 2. (예시) LLM 기반 RAG 챗봇 서비스
-> 실제 진행했던/진행중인 LLM 프로젝트로 바꾸면 좋습니다.
-
-- **설명**: 특정 도메인 문서를 기반으로 답변하는 RAG 기반 챗봇
-- **기술 스택**: Python, FastAPI, LangChain, FAISS/ChromaDB, OpenAI API(or Ollama)
+**2. FindGo-물건탐지 (4인 프로젝트)**
+- **설명**: 바쁜 현대인의 반복적인 물건 분실 문제 해결 필요
+- **기술 스택**: YOLOv8, ByteTrack, OpenCV, Albumentations
 - **주요 기능**
-  - PDF/문서 임베딩 및 벡터 검색
-  - 사용자 질문 기반 문서 검색 + 답변 생성
-  - 간단한 웹 UI 연동 (Streamlit/React 등)
-- **역할**: 설계 · 백엔드 · 모델 연결 전반
+  - **실시간 탐지:** 카메라 입력 기반 물건 위치 탐지
+  - **객체 추적:** 이동·가림 상황에서도 동일 객체 지속 추적
+  - **강화된 인식:** 데이터 증강으로 다양한 환경(조명/각도/그림자)에 대응
+  - **시각화 제공:** 탐지된 객체에 Bounding Box 및 ID 표시
+- **역할**
+    - 아이디어 기획 및 기능 구조 설계
+    - 데이터 수집·라벨링 및 전처리 파이프라인 구축
+    - YOLO 기반 객체 인식 모델 학습 및 성능 개선 작업
+    - 데이터 품질 점검 · 클래스 재정의 · 증강(Augmentation) 적용
+- **GitHub**: [ai-portfolio](https://github.com/ChangMin59/ai-portfolio)
 
----
+**3. Card Chatbot-카드 추천·비교 챗봇 (4인 프로젝트)**
+- **설명**: 사용자의 조건에 맞는 카드 추천
+- **기술 스택**: LangChain, FAISS, ConversationBufferMemory, Prompt Engineering
+- **주요 기능**
+  - 사용자 조건 기반 카드 추천 및 혜택 비교
+  - 질문 유형 분기 → (카드/혜택 질문 vs 외부 검색 질문)
+  - 카드 관련 질문 → 카드사 데이터 기반 추천·비교 제공
+  - 기타 질문 → Tavily API 활용해 외부 검색 후 응답
+  - 대화 맥락 유지
+- **역할**
+  - 데이터 크롤링 및 수집
+  - LLM 모델 선정 · 구현 · 고도화
+  - LangChain 기반 RAG 구현 및 고도화
+  - FAISS 기반 데이터 재구성
+- **GitHub**: [ai-portfolio](https://github.com/ChangMin59/ai-portfolio)
 
-### 3. (예시) 컴퓨터 비전 + 딥러닝 프로젝트
-- **설명**: OpenCV와 딥러닝을 활용한 이미지 분류/탐지 프로젝트
-- **기술 스택**: PyTorch or TensorFlow, OpenCV
-- **포인트**
-  - 데이터 전처리, 증강(Augmentation) 수행
-  - Transfer Learning / LoRA 기반 파인튜닝 적용
-  - 모델 성능 비교 및 시각화
+**4. WELHOME-LH 주택청약 챗봇 (2인 프로젝트)**
+- **설명**: 사용자조건에 맞는 임대주택 추천
+- **기술 스택**: Upstage, LangChail, LangGraph, Agent, PEFT, Chroma, FastAPI, SQLite
+- **주요 기능**
+  - 사용자 조건 기반 맞춤형 LH 청약 공고 추천
+  - 정책 용어 QnA 챗봇 (전문용어 → 일상어 설명)
+  - 주택 / 대출 상담 챗봇
+  - 해당 공고문 PDF 페이지도 함께 제공
+  - 질문 유형 분기
+- **역할**
+  - Upstage API을 활용한 PDF 데이터 추출 및 정제
+  - HTML Element 단위 청크 생성으로 RAG 데이터 구조 설계
+  - PEFT 기반 LoRA 파인튜닝
+  - 모델 로딩·상태 관리 로직 재구성
+- **GitHub**: [ai-portfolio](https://github.com/ChangMin59/ai-portfolio)
 
-> 프로젝트는 나중에 편하게 추가/수정 가능하니, 일단 제목/설명만 잡아두고 천천히 채워도 됩니다.
-
----
 
 ## 🎯 Goals
 
