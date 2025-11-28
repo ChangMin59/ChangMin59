@@ -14,7 +14,7 @@ AI 기술을 **실제 제품으로 구현하는 데 필요한 전 과정을 직�
 
 ### 🎯 핵심 역량
 - 🔍 **LLM 파인튜닝(LoRA·QLoRA)** / **RAG 시스템 구축**  
-- 📄 **문서 기반 AI 서비스 개발** (LangChain · GraphRAG · Vector DB)
+- 📄 **AI 서비스 개발** (LangChain · GraphRAG · Vector DB)
 - 🧠 모델 성능 개선 / 데이터 전처리 / 백엔드 API 개발
 - 🚀 **AI 서비스의 엔드투엔드 개발** (모델 → 서버 → 배포)
 
