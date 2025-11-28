@@ -30,8 +30,6 @@
 
 ---
 
-## 🛠 기술 스택
-
 ## 🧑‍💻 Programming
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
@@ -43,26 +41,21 @@
 <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
 <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white"/>
 <img src="https://img.shields.io/badge/Transformers-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
-
-**LLM Fine-tuning**  
-- PEFT · LoRA · QLoRA  
-- Tokenization · Dataset Building  
-- Prompt Engineering · Quantization  
 
 ---
 
-## 🔍 LLM · RAG
+## 💬 LLM Fine-tuning
+<img src="https://img.shields.io/badge/LoRA-4C4C4C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/QLoRA-4C4C4C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-1A1A1A?style=for-the-badge"/>
+
+---
+
+## 🔍 RAG Pipeline
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RAG%20Pipeline-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/FAISS-2C3E50?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ChromaDB-00BC7F?style=for-the-badge"/>
-
-**RAG Pipeline Skills**  
-- Document Processing · Chunking  
-- Embedding · Vectorization  
-- Retrieval Optimization  
-- GraphRAG · Agent Workflow  
 
 ---
 
@@ -70,7 +63,6 @@
 <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white"/>
 <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
 
 ---
 
@@ -79,14 +71,10 @@
 
 ---
 
-## ☁️ MLOps · Deployment
+## ☁️ MLOps
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
 <img src="https://img.shields.io/badge/Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white"/>
-<img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white"/>
-<img src="https://img.shields.io/badge/Render-2A2A2A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"/>
-<img src="https://img.shields.io/badge/WSL-4D4D4D?style=for-the-badge"/>
 
 ---
 
@@ -94,16 +82,12 @@
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Canvas-1A1A1A?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/Kakao%20Map%20API-FFCD00?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/YouTube%20Embedding-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
 
 ---
 
 ## 🤝 Collaboration
 <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"/>
 <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-
 
 ---
 
