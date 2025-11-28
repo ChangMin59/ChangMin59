@@ -37,7 +37,7 @@ AI 기술을 **실제 제품으로 구현하는 데 필요한 전 과정을 직�
 ---
 # 기술스택
 
-### 프로그래밍 언어
+**프로그래밍 언어
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=openjdk&logoColor=white"/>
