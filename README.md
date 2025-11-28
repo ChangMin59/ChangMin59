@@ -59,9 +59,8 @@
 ## 🔍 RAG 기술
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/RAG%20Pipeline-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/FAISS-2C3E50?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/ChromaDB-00BC7F?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/GraphRAG-4C4C4C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Agent-000000?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Prompt%20Engineering-1A1A1A?style=for-the-badge"/>
 </p>
 
