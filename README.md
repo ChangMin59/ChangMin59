@@ -176,4 +176,4 @@ AI 기술을 **실제 제품으로 구현하는 데 필요한 전 과정을 직�
 ## 📫 연락처
 
 - 📧 Email: dy2ghsk@gmail.com
-- 🧑‍💻 GitHub: [@ChangMin59](https://github.com/ChangMin59)
+- 🧑‍💻 GitHub: [GitHub 프로필](https://github.com/ChangMin59)
