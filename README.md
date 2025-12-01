@@ -83,9 +83,10 @@ AI 기술을 **실제 제품으로 구현하는 데 필요한 전 과정을 직�
 
 **백엔드**
 <p>
-  <img src="https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FastAPI-05998B?style=for-the-badge&logo=fastapi&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JPA-59666C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JPA-34495E?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/REST%20API-000000?style=for-the-badge&logo=api&logoColor=white"/>
 </p>
 
 **데이터베이스**
