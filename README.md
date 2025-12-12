@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C7EFF,100:00C2FF&height=180&section=header&text=%20이창민입니다&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4C7EFF,100:00C2FF&height=180&section=header&text=%안녕하세요%20이창민입니다&fontSize=40&fontColor=ffffff&animation=fadeIn"/>
 </p>
 <div align="left">
   
