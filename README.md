@@ -139,7 +139,7 @@ AI 기술을 **실제 제품으로 구현하는 데 필요한 전 과정을 직�
     - 데이터 품질 점검 · 클래스 재정의 · 증강(Augmentation) 적용
 - **GitHub**: [ai-portfolio](https://github.com/ChangMin59/ai-portfolio)
 
-**3. Card Chatbot-카드 추천·비교 챗봇 (4인 프로젝트)**
+**3. Card Fit-카드 추천·비교 챗봇 (4인 프로젝트)**
 - **설명**: 사용자의 조건에 맞는 카드 추천
 - **기술 스택**: LangChain, FAISS, ConversationBufferMemory, Prompt Engineering
 - **주요 기능**
