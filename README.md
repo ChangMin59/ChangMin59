@@ -111,7 +111,7 @@ AI 기술을 **실제 제품으로 구현하는 데 필요한 전 과정을 직�
 
 ## 🚀프로젝트
 
- **1. AI Developer Web Page-자기소개 웹페이지 (1인 프로젝트)**
+ **1. Developer Web Page-자기소개 웹페이지 (1인 프로젝트)**
 - **설명**: 웹 개발 역량을 한눈에 보여주기 위한 포트폴리오 사이트
 - **기술 스택**
   - **Frontend:** HTML, CSS, JavaScript, Canvas, GSAP
