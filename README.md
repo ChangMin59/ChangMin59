@@ -115,7 +115,7 @@ AI 기술을 **실제 제품으로 구현하는 데 필요한 전 과정을 직�
 - **설명**: 웹 개발 역량을 한눈에 보여주기 위한 포트폴리오 사이트
 - **기술 스택**
   - **Frontend:** HTML, CSS, JavaScript, Canvas, GSAP
-  - **Backend:** Spring Boot, JPA, MySQL
+  - **Backend:** Spring Boot, JWT, MySQL
 - **주요기능**
   - 회원가입: 사용자 정보 저장 (DTO → Entity 변환)
   - 로그인: 이메일/비밀번호 인증 → 사용자 정보 반환
