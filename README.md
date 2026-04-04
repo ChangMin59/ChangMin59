@@ -122,7 +122,7 @@ AI 기술을 **실제 제품으로 구현하는 데 필요한 전 과정을 직�
   - 로그아웃: 인증 상태 해제 후 로그인 페이지로 리다이렉트
   - 대시보드: 로그인된 사용자 정보 요청 후 클라이언트에서 조회 및 표시
   - GSAP ScrollTrigger + Canvas 기반 애니메이션
-- **GitHub**: [ai-portfolio](https://github.com/ChangMin59/ai-portfolio)
+- **GitHub**: [portfolio](https://github.com/ChangMin59/portfolio)
 
 **2. FindGo-물건탐지 (4인 프로젝트)**
 - **설명**: 바쁜 현대인의 반복적인 물건 분실 문제 해결 필요
@@ -137,7 +137,7 @@ AI 기술을 **실제 제품으로 구현하는 데 필요한 전 과정을 직�
     - 데이터 수집·라벨링 및 전처리 파이프라인 구축
     - YOLO 기반 객체 인식 모델 학습 및 성능 개선 작업
     - 데이터 품질 점검 · 클래스 재정의 · 증강(Augmentation) 적용
-- **GitHub**: [ai-portfolio](https://github.com/ChangMin59/ai-portfolio)
+- **GitHub**: [portfolio](https://github.com/ChangMin59/portfolio)
 
 **3. Card Fit-카드 추천·비교 챗봇 (4인 프로젝트)**
 - **설명**: 사용자의 조건에 맞는 카드 추천
@@ -153,7 +153,7 @@ AI 기술을 **실제 제품으로 구현하는 데 필요한 전 과정을 직�
   - LLM 모델 선정 · 구현 · 고도화
   - LangChain 기반 RAG 구현 및 고도화
   - FAISS 기반 데이터 재구성
-- **GitHub**: [ai-portfolio](https://github.com/ChangMin59/ai-portfolio)
+- **GitHub**: [portfolio](https://github.com/ChangMin59/portfolio)
 
 **4. WELHOME-LH 주택청약 챗봇 (2인 프로젝트)**
 - **설명**: 사용자조건에 맞는 임대주택 추천
@@ -169,7 +169,7 @@ AI 기술을 **실제 제품으로 구현하는 데 필요한 전 과정을 직�
   - HTML Element 단위 청크 생성으로 RAG 데이터 구조 설계
   - PEFT 기반 LoRA 파인튜닝
   - 모델 로딩·상태 관리 로직 재구성
-- **GitHub**: [ai-portfolio](https://github.com/ChangMin59/ai-portfolio)
+- **GitHub**: [portfolio](https://github.com/ChangMin59/portfolio)
 
 ---
 
